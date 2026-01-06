@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/24065847/README.md)
-# GitHubViz 3.0
+# GitHubVisualizer 
 
-GitHubViz is a desktop visualization companion for GitHub repositories. Point the app at any public repo and it will fetch every Java file, analyze dependencies and Carlos metrics, then render interactive views that help you reason about the code base faster.
+GitHubVisualizer is a desktop visualization companion for GitHub repositories. Point the app at any public repo and it will fetch every Java file, analyze dependencies and Carlos metrics, then render interactive views that help you reason about the code base faster.
 
 ---
 
@@ -96,4 +96,5 @@ ChatGPT panel summarizes the current repo (including top files, A/I averages, de
 
 
 Happy Visualizing!
+
 
