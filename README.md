@@ -93,12 +93,7 @@ ChatGPT panel summarizes the current repo (including top files, A/I averages, de
 - UI & overall architecture by **@NickGottwald** and **@Muska Said**.
 
 
----
 
-## 📄 License
-
-MIT-style (insert your license here). Update this section to match your actual licensing requirements before publishing.
-
----
 
 Happy Visualizing!
+
